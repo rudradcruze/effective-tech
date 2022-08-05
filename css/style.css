@@ -6,3 +6,15 @@ body {
     font-weight: 600;
     font-size: 40px;
 }
+
+#slider h1 {
+    font-size: 65px;
+}
+
+#slider .carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+}
