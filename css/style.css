@@ -18,3 +18,12 @@ body {
     transform: translate(-50%, -50%);
     width: 50%;
 }
+
+#feedback .carousel-control-next,
+#feedback .carousel-control-prev {
+    width: auto !important;
+}
+
+#feedback .row .col-lg-6 {
+    width: 48% !important;
+}
