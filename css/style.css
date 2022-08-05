@@ -1,0 +1,8 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#header .nav_control .navbar-brand {
+    font-weight: 600;
+    font-size: 40px;
+}
