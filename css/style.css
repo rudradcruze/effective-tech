@@ -27,3 +27,9 @@ body {
 #feedback .row .col-lg-6 {
     width: 48% !important;
 }
+
+.social-meida a {
+    height: 40px;
+    width: 40px;
+    color: black;
+}
